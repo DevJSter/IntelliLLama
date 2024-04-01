@@ -1,9 +1,7 @@
-# Change Log
+# Changelog
 
-All notable changes to the "intellillama" extension will be documented in this file.
+Separate changelogs are kept for each part of the Continue repository:
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- [VS Code Extension](./extensions/vscode/CHANGELOG.md)
+- [Intellij Extension](./extensions/intellij/CHANGELOG.md)
+- [Continue Server](./server/CHANGELOG.md)
